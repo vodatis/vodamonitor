@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="b0fc3fec-ddf1-435b-bfaf-c9c6afb1c4d5" kpf_version="5" name="vodamonitor.komodoproject">
+<preference-set idref="b0fc3fec-ddf1-435b-bfaf-c9c6afb1c4d5">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
